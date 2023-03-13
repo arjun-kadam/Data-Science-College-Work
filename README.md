@@ -3,6 +3,6 @@
 - [Access Here](Assignment1.ipynb)
 
 ## Assignment 2  - Data Wrangling Part 2
-- [Access Here](Assignment2.ipynb)
+- [Access Here](Assingment2.ipynb)
 
 ## More Coming Soon
