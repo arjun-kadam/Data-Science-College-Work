@@ -17,5 +17,26 @@
 ## Assignment 6  - Naïve Bayes Classification Algorithm
 - [Access Here](Assignment6.ipynb)
 
+## Assignment 7  - Text Analytics
+- [Access Here](Assignment7.ipynb)
 
-## More Coming Soon
+## Assignment 8  - Data Visualization-I
+- [Access Here](Assignment8.ipynb)
+
+## Assignment 9  - Data Visualization II
+- [Access Here](Assignment9.ipynb)
+
+## Assignment 19  - Data Visualization III
+- [Access Here](Assignment10.ipynb)
+
+<hr></hr>
+
+<h1>Mini Projects </h1>
+
+## Project 1  - Covid Data Analytics
+
+- [Access Here](Mini%20Projects/Covid.ipynb)
+
+
+## Project 2  - Movie Recommendation System
+- [Access Here](Mini%20Projects/MovieRecommendation.ipynb)
